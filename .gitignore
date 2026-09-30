@@ -3,3 +3,6 @@
 Win32/
 Debug/
 __history/
+bin/
+obj/
+.vs/
